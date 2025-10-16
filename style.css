@@ -16,7 +16,7 @@ button {
 }
 
 .passo {
-    display: nome;
+    display: none;
 }
 
 .passo.ativo {
@@ -28,6 +28,6 @@ main {
     max-width: 90%;
 }
 
-imag{
-    max-width: 90%
+img {
+    max-width: 90%;
 }
